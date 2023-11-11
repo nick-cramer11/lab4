@@ -1,2 +1,4 @@
-# lab4
-For hosting web maps (GEOG 371 - Lab 4)
+# CramerLab4
+Author: Nicholas Cramer
+Course: GEOG 371
+Assignment: Lab 4
